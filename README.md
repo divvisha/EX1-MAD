@@ -26,15 +26,13 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-```
-/*
+~~~
 Program to print the text “Hello World”.
 Developed by: DIVYASHREE B S
 Registeration Number : 212221040044
-*/
-
+~~~
 ## MainActivity.java:
-
+~~~
   package com.example.helloworld;
   import androidx.appcompat.app.AppCompatActivity;
   import android.os.Bundle;
@@ -96,8 +94,9 @@ protected void onRestart() {
 }
 }
 
-Activity_main.xml:
-
+~~~
+## Activity_main.xml:
+~~~
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout        xmlns:android="http://schemas.android.com/apk/res/android"
 xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -120,8 +119,8 @@ tools:context=".MainActivity">
     app:layout_constraintVertical_bias="0.499" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-```
 
+~~~
 ## OUTPUT
 
 ![image](https://github.com/divvisha/EX1-MAD/assets/127508123/3d54f834-e2fd-408c-b5b1-b6a613503d10)
