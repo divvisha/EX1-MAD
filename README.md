@@ -123,14 +123,19 @@ tools:context=".MainActivity">
 ~~~
 ## OUTPUT
 
+### onStart():
 ![image](https://github.com/divvisha/EX1-MAD/assets/127508123/3d54f834-e2fd-408c-b5b1-b6a613503d10)
 
+### onCreate():
 ![image](https://github.com/divvisha/EX1-MAD/assets/127508123/7e7fba7a-a012-4adf-aea6-a6c73015cab1)
 
+### onPause():
 ![image](https://github.com/divvisha/EX1-MAD/assets/127508123/0794333d-7898-4256-b905-65b3b0ebe130)
 
+### onResume():
 ![image](https://github.com/divvisha/EX1-MAD/assets/127508123/131cad09-dd1c-469b-80f4-20c7e5c737fb)
 
+### onDestroy():
 ![image](https://github.com/divvisha/EX1-MAD/assets/127508123/a98d6726-ea15-4c62-afb9-0a2f4e672c2b)
 
 ## RESULT
